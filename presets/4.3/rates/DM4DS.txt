@@ -6,7 +6,7 @@
 #$ AUTHOR: Sandor Dubronner
 #$ DESCRIPTION: Here you can descibe whatever you like
 #$ DESCRIPTION: Grumpy Sandor
-#$ DESCRIPTION: Jesus
+#$ DESCRIPTION: DM4DS
 #$ DISCUSSION: https://discord.gg/7c6AT4A7sc
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
